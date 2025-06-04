@@ -1,0 +1,74 @@
+{ 
+    "Products": 
+        [
+            {
+                "ProductID":   "S005",
+                "ProductName": "iPhone SE 64GB Midnight",
+                "SupplierID":  "Apple",
+                "CategoryID":  "iPhone",
+                "QuantityPerUnit": "64",
+                "UnitPrice": 29990,
+                "UnitsInStock": 64,
+                "UnitsOnOrder": 0,
+                "ReorderLevel": 0,
+                "Discontinued": "No",
+				"CurrencyCode": "PHP"
+            },
+
+			{
+                "ProductID":   "S004",
+                "ProductName": "iPhone 14 128GB Midnight",
+                "SupplierID":  "Apple",
+                "CategoryID":  "iPhone",
+                "QuantityPerUnit": "128",
+                "UnitPrice": 39990,
+                "UnitsInStock": 128,
+                "UnitsOnOrder": 0,
+                "ReorderLevel": 0,
+                "Discontinued": "No",
+				"CurrencyCode": "PHP"
+            },
+
+            {
+                "ProductID":   "S003",
+                "ProductName": "iPhone 14 Plus 128GB Midnight",
+                "SupplierID":  "Apple",
+                "CategoryID":  "iPhone",
+                "QuantityPerUnit": "128",
+                "UnitPrice": 44990,
+                "UnitsInStock": 128,
+                "UnitsOnOrder": 0,
+                "ReorderLevel": 0,
+                "Discontinued": "No",
+				"CurrencyCode": "PHP"
+            },
+
+            {
+                "ProductID":   "S002",
+                "ProductName": "iPhone 15 Plus 128GB Black",
+                "SupplierID":  "Apple",
+                "CategoryID":  "iPhone",
+                "QuantityPerUnit": "128",
+                "UnitPrice": 52990,
+                "UnitsInStock": 128,
+                "UnitsOnOrder": 0,
+                "ReorderLevel": 0,
+                "Discontinued": "No",
+				"CurrencyCode": "PHP"
+            },
+
+            {
+                "ProductID":   "S001",
+                "ProductName": "iPhone 16 Plus 128GB Black",
+                "SupplierID":  "Apple",
+                "CategoryID":  "iPhone",
+                "QuantityPerUnit": "128",
+                "UnitPrice": 62990,
+                "UnitsInStock": 128,
+                "UnitsOnOrder": 0,
+                "ReorderLevel": 0,
+                "Discontinued": "No",
+				"CurrencyCode": "PHP"
+            }
+        ]
+}
