@@ -51,6 +51,10 @@
         "settings": {
           "bundleName": "sapips.training.jsonbinding.i18n.i18n"
         }
+      },
+      "ProductsModel":{
+        "type": "sap.ui.model.json.JSONModel",
+        "uri": "model/products.json"
       }
     },
     "resources": {
